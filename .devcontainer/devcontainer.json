@@ -1,8 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "customizations": {
-    "vscode": {
-      "extensions": ["ms-python.python"]
-    }
+  "features": {
+    "https://your-collaborator-url.com/feature": {}
   }
 }
